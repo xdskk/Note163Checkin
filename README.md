@@ -34,6 +34,7 @@
 **点击`Actions`，再点击`I understand my workflows, go ahead and enable them`**
 ![启用Action](https://img.guoqianfan.com/note/2020/08/启用action.png)
 
+
 **注意**：Fork 的仓库上的 GitHub Actions 的**定时任务不会自动执行**，必须要手动触发一次后才能正常工作。
 
 所以 Fork 之后，点击自己仓库右上角的`Star`，`Star`你的仓库，这是为了触发 Github Action 第一次执行，之后就会自动执行定时任务。
